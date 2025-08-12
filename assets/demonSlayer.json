@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Tanjiro Kamado",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "image": "assets/demonSlayer/Tanjiro.jpg",
+    "image2": "assets/demonSlayer/Tanjiro2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Nezuko Kamado",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "image": "assets/demonSlayer/Nezuko.jpg",
+    "image2": "assets/demonSlayer/Nezuko2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Zenitsu Agatsuma",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "image": "assets/demonSlayer/Zenitsu.jpg",
+    "image2": "assets/demonSlayer/Zenitsu2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Inosuke Hashibira con cabello + mascara",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "image": "assets/demonSlayer/Inosuke.jpg",
+    "image2": "assets/demonSlayer/Inosuke2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Inosuke Hashibira con mascara",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "image": "assets/demonSlayer/InosukeM.jpg",
+    "image2": "assets/demonSlayer/InosukeM2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Kanao Tsuyuri",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "image": "assets/demonSlayer/Kanao.jpg",
+    "image2": "assets/demonSlayer/Kanao2.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Giyu Tomioka",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "image": "assets/demonSlayer/Giyu.jpg",
+    "image2": "assets/demonSlayer/Giyu2.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Shinobu Kocho",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "image": "assets/demonSlayer/Shinobu.jpg",
+    "image2": "assets/demonSlayer/Shinobu2.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Kyojuro Rengoku",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "image": "assets/demonSlayer/Rengoku.jpg",
+    "image2": "assets/demonSlayer/Rengoku2.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Tengen Uzui",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "image": "assets/demonSlayer/Tengen.jpg",
+    "image2": "assets/demonSlayer/Tengen2.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Mitsuri Kanroji",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "image": "assets/demonSlayer/Mitsuri.jpg",
+    "image2": "assets/demonSlayer/Mitsuri2.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Muichiro Tokito",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "image": "assets/demonSlayer/Tokito.jpg",
+    "image2": "assets/demonSlayer/Tokito2.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Gyomei Himejima",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "image": "assets/demonSlayer/Himejima.jpg",
+    "image2": "assets/demonSlayer/Himejima2.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Obanai Iguro",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "image": "assets/demonSlayer/Iguro.jpg",
+    "image2": "assets/demonSlayer/Iguro2.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Sanemi Shinazugawa",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "image": "assets/demonSlayer/Sanemi.jpg",
+    "image2": "assets/demonSlayer/Sanemi2.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Muzan Kibutsuji",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "image": "assets/demonSlayer/Muzan.jpg",
+    "image2": "assets/demonSlayer/Muzan2.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Doma",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "image": "assets/demonSlayer/Doma.jpg",
+    "image2": "assets/demonSlayer/Doma2.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Akaza",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "image": "assets/demonSlayer/Akaza.jpg",
+    "image2": "assets/demonSlayer/Akaza2.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Tanjiro Pose",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "image": "assets/demonSlayer/TanjiroPose.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Inosuke Pose",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "image": "assets/demonSlayer/InosukePose.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Rengoku Pose",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "image": "assets/demonSlayer/RengokuPose.jpg"
+  }
+]

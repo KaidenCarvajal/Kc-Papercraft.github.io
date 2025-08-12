@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Gundam Aerial XVX-016",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura tiene una altura de 12 cm",
+    "image": "assets/gundam/Aerial.jpg",
+    "image2": "assets/gundam/Aerial2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Nu Gundam RX-93",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, , esta figura tiene una altura de 17 cm",
+    "image": "assets/gundam/Nu.jpg",
+    "image2": "assets/gundam/Nu2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Gundam STTS-909 Rising Freedom",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, , esta figura tiene una altura de 18 cm",
+    "image": "assets/gundam/STTS.jpg",
+    "image2": "assets/gundam/STTS2.jpg"
+  }
+]
