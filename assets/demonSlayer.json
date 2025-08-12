@@ -2,145 +2,166 @@
   {
     "id": 1,
     "name": "Tanjiro Kamado",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/demonSlayer/Tanjiro.jpg",
-    "image2": "assets/demonSlayer/Tanjiro2.jpg"
+    "image2": "assets/demonSlayer/Tanjiro2.jpg",
+    "price": "35.000 cop"
   },
   {
     "id": 2,
     "name": "Nezuko Kamado",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/demonSlayer/Nezuko.jpg",
-    "image2": "assets/demonSlayer/Nezuko2.jpg"
+    "image2": "assets/demonSlayer/Nezuko2.jpg",
+    "price": "35.000 cop"
   },
   {
     "id": 3,
     "name": "Zenitsu Agatsuma",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/demonSlayer/Zenitsu.jpg",
-    "image2": "assets/demonSlayer/Zenitsu2.jpg"
+    "image2": "assets/demonSlayer/Zenitsu2.jpg",
+    "price": "35.000 cop"
   },
   {
     "id": 4,
     "name": "Inosuke Hashibira con cabello + mascara",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/demonSlayer/Inosuke.jpg",
-    "image2": "assets/demonSlayer/Inosuke2.jpg"
+    "image2": "assets/demonSlayer/Inosuke2.jpg",
+    "price": "35.000 cop"
   },
   {
     "id": 5,
     "name": "Inosuke Hashibira con mascara",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/demonSlayer/InosukeM.jpg",
-    "image2": "assets/demonSlayer/InosukeM2.jpg"
+    "image2": "assets/demonSlayer/InosukeM2.jpg",
+    "price": "35.000 cop"
   },
   {
     "id": 6,
     "name": "Kanao Tsuyuri",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/demonSlayer/Kanao.jpg",
-    "image2": "assets/demonSlayer/Kanao2.jpg"
+    "image2": "assets/demonSlayer/Kanao2.jpg",
+    "price": "35.000 cop"
   },
   {
     "id": 7,
     "name": "Giyu Tomioka",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/demonSlayer/Giyu.jpg",
-    "image2": "assets/demonSlayer/Giyu2.jpg"
+    "image2": "assets/demonSlayer/Giyu2.jpg",
+    "price": "35.000 cop"
   },
   {
     "id": 8,
     "name": "Shinobu Kocho",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/demonSlayer/Shinobu.jpg",
-    "image2": "assets/demonSlayer/Shinobu2.jpg"
+    "image2": "assets/demonSlayer/Shinobu2.jpg",
+    "price": "35.000 cop"
   },
   {
     "id": 9,
     "name": "Kyojuro Rengoku",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/demonSlayer/Rengoku.jpg",
-    "image2": "assets/demonSlayer/Rengoku2.jpg"
+    "image2": "assets/demonSlayer/Rengoku2.jpg",
+    "price": "35.000 cop"
   },
   {
     "id": 10,
     "name": "Tengen Uzui",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/demonSlayer/Tengen.jpg",
-    "image2": "assets/demonSlayer/Tengen2.jpg"
+    "image2": "assets/demonSlayer/Tengen2.jpg",
+    "price": "35.000 cop"
   },
   {
     "id": 11,
     "name": "Mitsuri Kanroji",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/demonSlayer/Mitsuri.jpg",
-    "image2": "assets/demonSlayer/Mitsuri2.jpg"
+    "image2": "assets/demonSlayer/Mitsuri2.jpg",
+    "price": "35.000 cop"
   },
   {
     "id": 12,
     "name": "Muichiro Tokito",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/demonSlayer/Tokito.jpg",
-    "image2": "assets/demonSlayer/Tokito2.jpg"
+    "image2": "assets/demonSlayer/Tokito2.jpg",
+    "price": "35.000 cop"
   },
   {
     "id": 13,
     "name": "Gyomei Himejima",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/demonSlayer/Himejima.jpg",
-    "image2": "assets/demonSlayer/Himejima2.jpg"
+    "image2": "assets/demonSlayer/Himejima2.jpg",
+    "price": "35.000 cop"
   },
   {
     "id": 14,
     "name": "Obanai Iguro",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/demonSlayer/Iguro.jpg",
-    "image2": "assets/demonSlayer/Iguro2.jpg"
+    "image2": "assets/demonSlayer/Iguro2.jpg",
+    "price": "35.000 cop"
   },
   {
     "id": 15,
     "name": "Sanemi Shinazugawa",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/demonSlayer/Sanemi.jpg",
-    "image2": "assets/demonSlayer/Sanemi2.jpg"
+    "image2": "assets/demonSlayer/Sanemi2.jpg",
+    "price": "35.000 cop"
   },
   {
     "id": 16,
     "name": "Muzan Kibutsuji",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/demonSlayer/Muzan.jpg",
-    "image2": "assets/demonSlayer/Muzan2.jpg"
+    "image2": "assets/demonSlayer/Muzan2.jpg",
+    "price": "35.000 cop"
   },
   {
     "id": 17,
     "name": "Doma",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/demonSlayer/Doma.jpg",
-    "image2": "assets/demonSlayer/Doma2.jpg"
+    "image2": "assets/demonSlayer/Doma2.jpg",
+    "price": "35.000 cop"
   },
   {
     "id": 19,
     "name": "Akaza",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/demonSlayer/Akaza.jpg",
-    "image2": "assets/demonSlayer/Akaza2.jpg"
+    "image2": "assets/demonSlayer/Akaza2.jpg",
+    "price": "35.000 cop"
   },
   {
     "id": 20,
     "name": "Tanjiro Pose",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
-    "image": "assets/demonSlayer/TanjiroPose.jpg"
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "image": "assets/demonSlayer/TanjiroPose.jpg",
+    "price": "35.000 cop"
   },
   {
     "id": 21,
     "name": "Inosuke Pose",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
-    "image": "assets/demonSlayer/InosukePose.jpg"
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "image": "assets/demonSlayer/InosukePose.jpg",
+    "price": "35.000 cop"
   },
   {
     "id": 22,
     "name": "Rengoku Pose",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!",
-    "image": "assets/demonSlayer/RengokuPose.jpg"
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "image": "assets/demonSlayer/RengokuPose.jpg",
+    "price": "35.000 cop"
   }
 ]

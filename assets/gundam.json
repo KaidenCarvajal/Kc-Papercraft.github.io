@@ -2,22 +2,25 @@
   {
     "id": 1,
     "name": "Gundam Aerial XVX-016",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura tiene una altura de 12 cm",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura tiene una altura de 12 cm, esta figura es hecha bajo pedido que puede demorar de 4 a 6 días, el envio no esta incluido en el precio.",
     "image": "assets/gundam/Aerial.jpg",
-    "image2": "assets/gundam/Aerial2.jpg"
+    "image2": "assets/gundam/Aerial2.jpg",
+    "price": "80.000 cop"
   },
   {
     "id": 2,
     "name": "Nu Gundam RX-93",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, , esta figura tiene una altura de 17 cm",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura tiene una altura de 17 cm, esta figura es hecha bajo pedido que puede demorar de 9 a 14 días, el envio no esta incluido en el precio.",
     "image": "assets/gundam/Nu.jpg",
-    "image2": "assets/gundam/Nu2.jpg"
+    "image2": "assets/gundam/Nu2.jpg",
+    "price": "130.000 cop"
   },
   {
     "id": 3,
     "name": "Gundam STTS-909 Rising Freedom",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, , esta figura tiene una altura de 18 cm",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura tiene una altura de 18 cm, esta figura es hecha bajo pedido que puede demorar de 11 a 16 días, el envio no esta incluido en el precio.",
     "image": "assets/gundam/STTS.jpg",
-    "image2": "assets/gundam/STTS2.jpg"
+    "image2": "assets/gundam/STTS2.jpg",
+    "price": "130.000 cop"
   }
 ]
