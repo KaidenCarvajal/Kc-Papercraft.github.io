@@ -2,16 +2,16 @@
   {
     "id": 1,
     "name": "Going Merry",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 15 a 30 días",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 25 a 30 días",
     "image": "assets/onePiece/Merry.jpg",
-    "price": "750.000 cop"
+    "price": "800.000"
   },
   {
     "id": 2,
     "name": "Thousand Sunny",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 15 a 30 días.",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 25 a 30 días.",
     "image": "assets/onePiece/Sunny.jpg",
-    "price": "1.000.000 cop"
+    "price": "900.000"
   },
   {
     "id": 3,
@@ -19,7 +19,7 @@
     "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio.",
     "image": "assets/onePiece/Luffy.jpg",
     "image2": "assets/onePiece/Luffy2.jpg",
-    "price": "50.000 cop"
+    "price": "50.000"
   },
   {
     "id": 4,
@@ -27,6 +27,6 @@
     "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio.",
     "image": "assets/onePiece/Zoro.jpg",
     "image2": "assets/onePiece/Zoro2.jpg",
-    "price": "60.000 cop"
+    "price": "60.000"
   }
 ]

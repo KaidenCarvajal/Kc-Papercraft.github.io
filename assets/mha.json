@@ -2,15 +2,15 @@
   {
     "id": 1,
     "name": "Izuku Midoriya",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, hecha a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.s",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, hecha a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio. Nota: Cajita incluidad 😄.",
     "image": "assets/mha/Izuku.jpg",
-    "price": "35.000 cop"
+    "price": "35.000"
   },
   {
     "id": 2,
     "name": "Ochaco Uraraka",
-    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, hecha a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "¡Figura de papel hecha 100% en papel, hecha a mano!, hecha a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio. Nota: Cajita incluidad 😄.",
     "image": "assets/mha/Ochaco.jpg",
-    "price": "35.000 cop"
+    "price": "35.000"
   }
 ]
