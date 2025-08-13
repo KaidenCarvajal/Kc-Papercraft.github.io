@@ -2,15 +2,33 @@
   {
     "id": 1,
     "name": "Izuku Midoriya",
-    "description": "El decidido y noble héroe en formación, te inspirará con su poderoso One For All y su incansable voluntad de salvar a todos!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio. Nota: Cajita incluida 😄.",
+    "description": "El decidido y noble héroe en formación, te inspirará con su poderoso One For All y su incansable voluntad de salvar a todos!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/mha/Izuku.jpg",
+    "image2": "assets/mha/Izuku2.jpg",
     "price": "35.000"
   },
   {
     "id": 2,
     "name": "Ochaco Uraraka",
-    "description": "La alegre y valiente aspirante a heroína, usará su Gravedad Cero para flotar hacia la victoria y proteger a quienes ama!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio. Nota: Cajita incluida 😄.",
+    "description": "La alegre y valiente aspirante a heroína, usará su Gravedad Cero para flotar hacia la victoria y proteger a quienes ama!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/mha/Ochaco.jpg",
+    "image2": "assets/mha/Ochaco2.jpg",
+    "price": "35.000"
+  },
+  {
+    "id": 3,
+    "name": "Katsuki Bakugo",
+    "description": "El explosivo y feroz aspirante a héroe, arrasará con todo a su paso usando su poderoso Don de explosiones y su inquebrantable determinación de ser el mejor!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "image": "assets/mha/Bakugo.jpg",
+    "image2": "assets/mha/Bakugo2.jpg",
+    "price": "35.000"
+  },
+  {
+    "id": 4,
+    "name": "Shoto Todoroki",
+    "description": "El frío y calculador prodigio, dominará el campo de batalla con el poder combinado del hielo y el fuego, equilibrando fuerza y estrategia.!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "image": "assets/mha/Shoto.jpg",
+    "image2": "assets/mha/Shoto2.jpg",
     "price": "35.000"
   }
 ]

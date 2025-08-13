@@ -10,7 +10,7 @@
   {
     "id": 2,
     "name": "Nezuko Kamado",
-    "description": "Nuestra bella y hermosa Nesuko!!!, Jefe Inoseque!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "Nuestra bella y hermosa Nezuko!!!, Jefe Inoseque!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, hecha a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/demonSlayer/Nezuko.jpg",
     "image2": "assets/demonSlayer/Nezuko2.jpg",
     "price": "35.000"
@@ -146,22 +146,31 @@
   {
     "id": 20,
     "name": "Tanjiro Pose",
-    "description": "Nuestro valiente protagonista Tanjiro Kamado, demostrando su maestria en respiración solar!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "Nuestro valiente protagonista Tanjiro Kamado, demostrando su maestria en respiración solar, con su katana en llamas y rodeado de flamas!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/demonSlayer/TanjiroPose.jpg",
+    "image2": "assets/demonSlayer/TanjiroPose2.jpg",
+    "image3": "assets/demonSlayer/TanjiroPose3.jpg",
+    "image4": "assets/demonSlayer/TanjiroPose4.jpg",
     "price": "35.000"
   },
   {
     "id": 21,
     "name": "Inosuke Pose",
-    "description": "Nuestro valiente, salvaje y bromista Inosuke!!!,ten cuidado porque si te descuidas puede llegar a clavarte un espadazo, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "Nuestro valiente, salvaje y bromista Inosuke!!!, en una pose imponente con su mascara sobrepuesta y con sus dos katanas afiladas y listas para pelear, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/demonSlayer/InosukePose.jpg",
+    "image2": "assets/demonSlayer/InosukePose2.jpg",
+    "image3": "assets/demonSlayer/InosukePose3.jpg",
+    "image4": "assets/demonSlayer/InosukePose4.jpg",
     "price": "35.000"
   },
   {
     "id": 22,
     "name": "Rengoku Pose",
-    "description": "El apasionado y carismático Pilar de la Llama, demostrando la respiración de la llama!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "description": "El apasionado y carismático Pilar de la Llama, demostrando la respiración de la llama, rodeado de imponentes flamas listo para atacar cualquier demonio que se le acerque!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
     "image": "assets/demonSlayer/RengokuPose.jpg",
+    "image2": "assets/demonSlayer/RengokuPose2.jpg",
+    "image3": "assets/demonSlayer/RengokuPose3.jpg",
+    "image4": "assets/demonSlayer/RengokuPose4.jpg",
     "price": "35.000"
   }
 ]

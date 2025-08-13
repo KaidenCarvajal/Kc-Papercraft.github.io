@@ -4,6 +4,9 @@
     "name": "Going Merry",
     "description": "Primer barco de nuestros protagonistas los sombrero de paja, que los acompaño desde la villa sirup hasta water seven, el cual fue construido por Merry, el mayordomo de Kaya!!!, ¡Modelo papercraft, impreso en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!,Este modelo tiene 40 cm de alto y 38 cm de largo. este modelo es hecha bajo pedido que puede demorar de 25 a 30 días, el envio no esta incluido en el precio.",
     "image": "assets/onePiece/Merry.jpg",
+    "image2": "assets/onePiece/Merry2.jpg",
+    "image3": "assets/onePiece/Merry3.jpg",
+    "image4": "assets/onePiece/Merry4.jpg",
     "price": "800.000"
   },
   {
@@ -11,6 +14,9 @@
     "name": "Thousand Sunny",
     "description": "Segundo barco de nuestros protagonistas los sombrero de paja, que los acompaña desde water sever hasta este momento en Elbaf, fue construido por nuestro ¡SUUUUUUUUPER! cyborg favorito y tripulante de los sombrero de paja Franky!!!, ¡Modelo papercraft, impreso en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!,Este modelo tiene 45 cm de alto y 40 cm de largo. este modelo es hecha bajo pedido que puede demorar de 25 a 30 días, el envio no esta incluido en el precio.",
     "image": "assets/onePiece/Sunny.jpg",
+    "image2": "assets/onePiece/Sunny2.jpg",
+    "image3": "assets/onePiece/Sunny3.jpg",
+    "image4": "assets/onePiece/Sunny4.jpg",
     "price": "900.000"
   },
   {
@@ -19,6 +25,8 @@
     "description": "Nuestro divertido y loco protagonista y capitan de los sombrero de paja, mostrando su tecnica gear 2!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio.",
     "image": "assets/onePiece/Luffy.jpg",
     "image2": "assets/onePiece/Luffy2.jpg",
+    "image3": "assets/onePiece/Luffy3.jpg",
+    "image4": "assets/onePiece/Luffy4.jpg",
     "price": "50.000"
   },
   {
@@ -27,6 +35,8 @@
     "description": "Nuestro serio y habil espadachin y vice capitan de los sombrero de paja, quien utiliza el estilo de las 3 katanas!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio.",
     "image": "assets/onePiece/Zoro.jpg",
     "image2": "assets/onePiece/Zoro2.jpg",
+    "image3": "assets/onePiece/Zoro3.jpg",
+    "image4": "assets/onePiece/Zoro4.jpg",
     "price": "60.000"
   }
 ]
