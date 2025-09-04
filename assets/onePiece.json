@@ -3,120 +3,144 @@
     "id": 1,
     "name": "Going Merry",
     "description": "⭐Primer barco de nuestros protagonistas los sombrero de paja, que los acompaño desde la villa sirup hasta water seven, el cual fue construido por Merry, el mayordomo de Kaya⭐, ¡Modelo papercraft, impreso en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!,Este modelo tiene 40 cm de alto y 38 cm de largo. este modelo es hecha bajo pedido que puede demorar de 25 a 30 días, el envio no esta incluido en el precio.",
-    "image": "assets/onePiece/Merry.jpg",
-    "image2": "assets/onePiece/Merry2.jpg",
-    "image3": "assets/onePiece/Merry3.jpg",
-    "image4": "assets/onePiece/Merry4.jpg",
+    "images": [
+      { "id": 1, "name": "assets/onePiece/Merry.jpg" },
+      { "id": 2, "name": "assets/onePiece/Merry2.jpg" },
+      { "id": 3, "name": "assets/onePiece/Merry3.jpg" },
+      { "id": 4, "name": "assets/onePiece/Merry4.jpg" }
+    ],
     "price": "800.000"
   },
   {
     "id": 2,
     "name": "Thousand Sunny",
     "description": "⭐Segundo barco de nuestros protagonistas los sombrero de paja, que los acompaña desde water sever hasta este momento en Elbaf, fue construido por nuestro ¡SUUUUUUUUPER! cyborg favorito y tripulante de los sombrero de paja Franky⭐, ¡Modelo papercraft, impreso en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!,Este modelo tiene 45 cm de alto y 40 cm de largo. este modelo es hecha bajo pedido que puede demorar de 25 a 30 días, el envio no esta incluido en el precio.",
-    "image": "assets/onePiece/Sunny.jpg",
-    "image2": "assets/onePiece/Sunny2.jpg",
-    "image3": "assets/onePiece/Sunny3.jpg",
-    "image4": "assets/onePiece/Sunny4.jpg",
+    "images": [
+      { "id": 1, "name": "assets/onePiece/Sunny.jpg" },
+      { "id": 2, "name": "assets/onePiece/Sunny2.jpg" },
+      { "id": 3, "name": "assets/onePiece/Sunny3.jpg" },
+      { "id": 4, "name": "assets/onePiece/Sunny4.jpg" }
+    ],
     "price": "900.000"
   },
   {
     "id": 3,
     "name": "Monkey D. Luffy Gear 2",
     "description": "🍖Nuestro divertido y loco protagonista y capitan de los sombrero de paja, mostrando su tecnica gear 2🍖, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio.",
-    "image": "assets/onePiece/Luffy.jpg",
-    "image2": "assets/onePiece/Luffy2.jpg",
-    "image3": "assets/onePiece/Luffy3.jpg",
-    "image4": "assets/onePiece/Luffy4.jpg",
+    "images": [
+      { "id": 1, "name": "assets/onePiece/Luffy.jpg" },
+      { "id": 2, "name": "assets/onePiece/Luffy2.jpg" },
+      { "id": 3, "name": "assets/onePiece/Luffy3.jpg" },
+      { "id": 4, "name": "assets/onePiece/Luffy4.jpg" }
+    ],
     "price": "50.000"
   },
   {
     "id": 4,
     "name": "Roronoa Zoro",
     "description": "⚔Nuestro serio y habil espadachin y vice capitan de los sombrero de paja, quien utiliza el estilo de las 3 katanas⚔, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio.",
-    "image": "assets/onePiece/Zoro.jpg",
-    "image2": "assets/onePiece/Zoro2.jpg",
-    "image3": "assets/onePiece/Zoro3.jpg",
-    "image4": "assets/onePiece/Zoro4.jpg",
+    "images": [
+      { "id": 1, "name": "assets/onePiece/Zoro.jpg" },
+      { "id": 2, "name": "assets/onePiece/Zoro2.jpg" },
+      { "id": 3, "name": "assets/onePiece/Zoro3.jpg" },
+      { "id": 4, "name": "assets/onePiece/Zoro4.jpg" }
+    ],
     "price": "60.000"
   },
   {
     "id": 5,
     "name": "Monkey D. Luffy (Onigashima)",
     "description": "🍖Nuestro divertido y loco protagonista y capitan de los sombrero de paja y amante de la carne🍖 En esta ocasión esta figura tiene el aspecto de Luffy visto durante la isla Onigashima y su sombrero puede retirarse ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
-    "image": "assets/onePiece/LuffyO.jpg",
-    "image2": "assets/onePiece/LuffyO2.jpg",
-    "image3": "assets/onePiece/LuffyO3.jpg",
-    "image4": "assets/onePiece/LuffyO4.jpg",
+    "images": [
+      { "id": 1, "name": "assets/onePiece/LuffyO.jpg" },
+      { "id": 2, "name": "assets/onePiece/LuffyO2.jpg" },
+      { "id": 3, "name": "assets/onePiece/LuffyO3.jpg" },
+      { "id": 4, "name": "assets/onePiece/LuffyO4.jpg" }
+    ],
     "price": "40.000"
   },
   {
     "id": 6,
     "name": "Nami (Onigashima)",
     "description": "🍊La astuta y valiente navegante de los Sombrero de Paja, guiará tu rumbo con su ingenio, su Clima-Tact y su inquebrantable deseo de libertad🍊 En esta ocasión esta figura tiene el aspecto de Nami visto durante la isla Onigashima, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
-    "image": "assets/onePiece/Nami.jpg",
-    "image2": "assets/onePiece/Nami2.jpg",
-    "image3": "assets/onePiece/Nami3.jpg",
-    "image4": "assets/onePiece/Nami4.jpg",
+    "images": [
+      { "id": 1, "name": "assets/onePiece/Nami.jpg" },
+      { "id": 2, "name": "assets/onePiece/Nami2.jpg" },
+      { "id": 3, "name": "assets/onePiece/Nami3.jpg" },
+      { "id": 4, "name": "assets/onePiece/Nami4.jpg" }
+    ],
     "price": "40.000"
   },
   {
     "id": 7,
     "name": "Nico Robin (Onigashima)",
     "description": "🌸La sabia y enigmática arqueóloga, desvelará los secretos del mundo con su intelecto y la poderosa Hana Hana no Mi🌸 En esta ocasión esta figura tiene el aspecto de Robin visto durante la isla Onigashima, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio.",
-    "image": "assets/onePiece/Robin.jpg",
-    "image2": "assets/onePiece/Robin2.jpg",
-    "image3": "assets/onePiece/Robin3.jpg",
-    "image4": "assets/onePiece/Robin4.jpg",
+    "images": [
+      { "id": 1, "name": "assets/onePiece/Robin.jpg" },
+      { "id": 2, "name": "assets/onePiece/Robin2.jpg" },
+      { "id": 3, "name": "assets/onePiece/Robin3.jpg" },
+      { "id": 4, "name": "assets/onePiece/Robin4.jpg" }
+    ],
     "price": "40.000"
   },
   {
     "id": 8,
     "name": "Tony Tony Chopper (Onigashima)",
     "description": "🍬El adorable y amante de los dulces pero formidable médico de la tripulación, luchará y curará con la ayuda de su Hito Hito no Mi y sus transformaciones únicas🍬 En esta ocasión esta figura tiene el aspecto de Chopper visto durante la isla Onigashima, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
-    "image": "assets/onePiece/Chopper.jpg",
-    "image2": "assets/onePiece/Chopper2.jpg",
-    "image3": "assets/onePiece/Chopper3.jpg",
-    "image4": "assets/onePiece/Chopper4.jpg",
+    "images": [
+      { "id": 1, "name": "assets/onePiece/Chopper.jpg" },
+      { "id": 2, "name": "assets/onePiece/Chopper2.jpg" },
+      { "id": 3, "name": "assets/onePiece/Chopper3.jpg" },
+      { "id": 4, "name": "assets/onePiece/Chopper4.jpg" }
+    ],
     "price": "40.000"
   },
   {
     "id": 9,
     "name": "Franky (Onigashima)",
     "description": "🌟El extravagante y brillante cyborg carpintero, construirá y combatirá con su ¡¡¡SUUUUUPER!!! fuerza y sus ingeniosas creaciones🌟 En esta ocasión esta figura tiene el aspecto de Franky visto durante la isla Onigashima, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio. Nota: Debido al tamaño de esta figura no cuenta con su caja😅",
-    "image": "assets/onePiece/Franky.jpg",
-    "image2": "assets/onePiece/Franky2.jpg",
-    "image3": "assets/onePiece/Franky3.jpg",
-    "image4": "assets/onePiece/Franky4.jpg",
+    "images": [
+      { "id": 1, "name": "assets/onePiece/Franky.jpg" },
+      { "id": 2, "name": "assets/onePiece/Franky2.jpg" },
+      { "id": 3, "name": "assets/onePiece/Franky3.jpg" },
+      { "id": 4, "name": "assets/onePiece/Franky4.jpg" }
+    ],
     "price": "40.000"
   },
   {
     "id": 10,
-    "name": "Jimbei",
+    "name": "Jinbei",
     "description": "🐟El honorable y poderoso caballero del mar, dominará las olas con su Fish-Man Karate y su espíritu de justicia🐟 En esta ocasión esta figura tiene el aspecto de Jimbei visto durante la guerra en Marineford, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio. Nota: Debido al tamaño de esta figura no cuenta con su caja😅",
-    "image": "assets/onePiece/Jimbei.jpg",
-    "image2": "assets/onePiece/Jimbei2.jpg",
-    "image3": "assets/onePiece/Jimbei3.jpg",
-    "image4": "assets/onePiece/Jimbei4.jpg",
+    "images": [
+      { "id": 1, "name": "assets/onePiece/Jinbei.jpg" },
+      { "id": 2, "name": "assets/onePiece/Jinbei2.jpg" },
+      { "id": 3, "name": "assets/onePiece/Jinbei3.jpg" },
+      { "id": 4, "name": "assets/onePiece/Jinbei4.jpg" }
+    ],
     "price": "40.000"
   },
   {
     "id": 11,
     "name": "Shanks",
-    "description": "⚔El carismático y temido emperador del mar, inspirará respeto con su increíble Haki y su presencia imponente⚔ ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
-    "image": "assets/onePiece/Shanks.jpg",
-    "image2": "assets/onePiece/Shanks2.jpg",
-    "image3": "assets/onePiece/Shanks3.jpg",
-    "image4": "assets/onePiece/Shanks4.jpg",
+    "description": "⚔El carismático y temido emperador del mar, inspirará respeto con su increíble Haki y su presencia imponente⚔ su sombrero puede retirarse ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
+    "images": [
+      { "id": 1, "name": "assets/onePiece/Shanks.jpg" },
+      { "id": 2, "name": "assets/onePiece/Shanks2.jpg" },
+      { "id": 3, "name": "assets/onePiece/Shanks3.jpg" },
+      { "id": 4, "name": "assets/onePiece/Shanks4.jpg" }
+    ],
     "price": "40.000"
   },
   {
     "id": 12,
     "name": "Boa Hancock",
     "description": "🐍La majestuosa emperatriz pirata de Amazon Lily, deslumbrará con su belleza y aniquilará enemigos con el poder de la Mero Mero no Mi🐍 ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 2 a 3 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
-    "image": "assets/onePiece/Boa.jpg",
-    "image2": "assets/onePiece/Boa2.jpg",
-    "image3": "assets/onePiece/Boa3.jpg",
-    "image4": "assets/onePiece/Boa4.jpg",
+    "images": [
+      { "id": 1, "name": "assets/onePiece/Boa.jpg" },
+      { "id": 2, "name": "assets/onePiece/Boa2.jpg" },
+      { "id": 3, "name": "assets/onePiece/Boa3.jpg" },
+      { "id": 4, "name": "assets/onePiece/Boa4.jpg" }
+    ],
     "price": "40.000"
   }
 ]

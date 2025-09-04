@@ -3,30 +3,36 @@
     "id": 1,
     "name": "Gundam Aerial XVX-016",
     "description": "El elegante y adaptable Gundam Aerial que pilota Suletta Mercury, una maravilla tecnológica de Gundam: The Witch from Mercury!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, cuenta con una altura de 12 cm esta figura es hecha bajo pedido que puede demorar de 4 a 6 días, el envio no esta incluido en el precio.",
-    "image": "assets/gundam/Aerial.jpg",
-    "image2": "assets/gundam/Aerial2.jpg",
-    "image3": "assets/gundam/Aerial3.jpg",
-    "image4": "assets/gundam/Aerial4.jpg",
+    "images": [
+      { "id": 1, "name": "assets/gundam/Aerial.jpg" },
+      { "id": 2, "name": "assets/gundam/Aerial2.jpg" },
+      { "id": 3, "name": "assets/gundam/Aerial3.jpg" },
+      { "id": 4, "name": "assets/gundam/Aerial4.jpg" }
+    ],
     "price": "80.000"
   },
   {
     "id": 2,
     "name": "Nu Gundam RX-93",
     "description": "La legendaria arma de Amuro Ray en Chars Counterattack, diseñada para Newtypes. Este Gundam destaca por su equilibrio entre rendimiento, confiabilidad y adaptabilidad!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, cuenta con una altura de 17 cm, esta figura es hecha bajo pedido que puede demorar de 10 a 14 días, el envio no esta incluido en el precio.",
-    "image": "assets/gundam/Nu.jpg",
-    "image2": "assets/gundam/Nu2.jpg",
-    "image3": "assets/gundam/Nu3.jpg",
-    "image4": "assets/gundam/Nu4.jpg",
+    "images": [
+      { "id": 1, "name": "assets/gundam/Nu.jpg" },
+      { "id": 2, "name": "assets/gundam/Nu2.jpg" },
+      { "id": 3, "name": "assets/gundam/Nu3.jpg" },
+      { "id": 4, "name": "assets/gundam/Nu4.jpg" }
+    ],
     "price": "130.000"
   },
   {
     "id": 3,
     "name": "Gundam STTS-909 Rising Freedom",
     "description": "Un prototipo transformable de vanguardia presentado en Mobile Suit Gundam SEED Freedom!!!, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, cuenta con una altura de 18 cm, esta figura es hecha bajo pedido que puede demorar de 11 a 16 días, el envio no esta incluido en el precio.",
-    "image": "assets/gundam/STTS.jpg",
-    "image2": "assets/gundam/STTS2.jpg",
-    "image3": "assets/gundam/STTS3.jpg",
-    "image4": "assets/gundam/STTS4.jpg",
+    "images": [
+      { "id": 1, "name": "assets/gundam/STTS.jpg" },
+      { "id": 2, "name": "assets/gundam/STTS2.jpg" },
+      { "id": 3, "name": "assets/gundam/STTS3.jpg" },
+      { "id": 4, "name": "assets/gundam/STTS4.jpg" }
+    ],
     "price": "130.000"
   }
 ]
