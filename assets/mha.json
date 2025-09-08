@@ -7,7 +7,8 @@
       { "id": 1, "name": "assets/mha/Izuku.jpg" },
       { "id": 2, "name": "assets/mha/Izuku2.jpg" }
     ],
-    "price": "35.000"
+    "price": "35.000",
+    "new": false
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
       { "id": 1, "name": "assets/mha/Ochaco.jpg" },
       { "id": 2, "name": "assets/mha/Ochaco2.jpg" }
     ],
-    "price": "35.000"
+    "price": "35.000",
+    "new": false
   },
   {
     "id": 3,
@@ -27,7 +29,8 @@
       { "id": 1, "name": "assets/mha/Bakugo.jpg" },
       { "id": 2, "name": "assets/mha/Bakugo2.jpg" }
     ],
-    "price": "35.000"
+    "price": "35.000",
+    "new": false
   },
   {
     "id": 4,
@@ -37,6 +40,7 @@
       { "id": 1, "name": "assets/mha/Shoto.jpg" },
       { "id": 2, "name": "assets/mha/Shoto2.jpg" }
     ],
-    "price": "35.000"
+    "price": "35.000",
+    "new": false
   }
 ]

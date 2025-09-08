@@ -9,7 +9,8 @@
       { "id": 3, "name": "assets/gundam/Aerial3.jpg" },
       { "id": 4, "name": "assets/gundam/Aerial4.jpg" }
     ],
-    "price": "80.000"
+    "price": "80.000",
+    "new": false
   },
   {
     "id": 2,
@@ -21,7 +22,8 @@
       { "id": 3, "name": "assets/gundam/Nu3.jpg" },
       { "id": 4, "name": "assets/gundam/Nu4.jpg" }
     ],
-    "price": "130.000"
+    "price": "130.000",
+    "new": false
   },
   {
     "id": 3,
@@ -33,6 +35,7 @@
       { "id": 3, "name": "assets/gundam/STTS3.jpg" },
       { "id": 4, "name": "assets/gundam/STTS4.jpg" }
     ],
-    "price": "130.000"
+    "price": "130.000",
+    "new": false
   }
 ]

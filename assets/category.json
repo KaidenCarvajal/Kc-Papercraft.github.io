@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Demon Slayer",
+    "img": "assets/kny_logo.png",
+    "characters": "demonSlayer",
+    "new": "false"
+  },
+  {
+    "id": 2,
+    "name": "One Piece",
+    "img": "assets/op_logo.png",
+    "characters": "onePiece",
+    "new": "true"
+  },
+  {
+    "id": 3,
+    "name": "My Hero Academia",
+    "img": "assets/mha_logo.png",
+    "characters": "mha",
+    "new": "false"
+  },
+  {
+    "id": 4,
+    "name": "Gundam",
+    "img": "assets/g_logo.png",
+    "characters": "gundam",
+    "new": "false"
+  }
+]
