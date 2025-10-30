@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Monkey D. Luffy (Onigashima)",
+    "img": "assets/onePiece/LuffyO.jpg",
+    "description": "🍖Nuestro divertido y loco protagonista y capitan de los sombrero de paja y amante de la carne🍖",
+    "category": "onePiece"
+  },
+  {
+    "id": 2,
+    "name": "Nami (Onigashima)",
+    "img": "assets/onePiece/Nami.jpg",
+    "description": "🍊La astuta y valiente navegante de los Sombrero de Paja, guiará tu rumbo con su ingenio, su Clima-Tact y su inquebrantable deseo de libertad🍊",
+    "category": "onePiece"
+  },
+  {
+    "id": 3,
+    "name": "Nico Robin (Onigashima)",
+    "img": "assets/onePiece/Robin.jpg",
+    "description": "🌸La sabia y enigmática arqueóloga, desvelará los secretos del mundo con su intelecto y la poderosa Hana Hana no Mi🌸",
+    "category": "onePiece"
+  },
+  {
+    "id": 4,
+    "name": "Tony Tony Chopper (Onigashima)",
+    "img": "assets/onePiece/Chopper.jpg",
+    "description": "🍬El adorable y amante de los dulces pero formidable médico de la tripulación, luchará y curará con la ayuda de su Hito Hito no Mi y sus transformaciones únicas🍬",
+    "category": "onePiece"
+  },
+  {
+    "id": 5,
+    "name": "Franky (Onigashima)",
+    "img": "assets/onePiece/Franky.jpg",
+    "description": "🌟El extravagante y brillante cyborg carpintero, construirá y combatirá con su ¡¡¡SUUUUUPER!!! fuerza y sus ingeniosas creaciones🌟",
+    "category": "onePiece"
+  },
+  {
+    "id": 6,
+    "name": "Jinbei",
+    "img": "assets/onePiece/Jinbei.jpg",
+    "description": "🐟El honorable y poderoso caballero del mar, dominará las olas con su Fish-Man Karate y su espíritu de justicia🐟",
+    "category": "onePiece"
+  },
+  {
+    "id": 7,
+    "name": "Shanks",
+    "img": "assets/onePiece/Shanks.jpg",
+    "description": "🗡️El carismático y temido emperador del mar, inspirará respeto con su increíble Haki y su presencia imponente🗡️",
+    "category": "onePiece"
+  },
+  {
+    "id": 8,
+    "name": "Boa Hancock",
+    "img": "assets/onePiece/Boa.jpg",
+    "description": "🐍La majestuosa emperatriz pirata de Amazon Lily, deslumbrará con su belleza y aniquilará enemigos con el poder de la Mero Mero no Mi🐍",
+    "category": "onePiece"
+  }
+]
