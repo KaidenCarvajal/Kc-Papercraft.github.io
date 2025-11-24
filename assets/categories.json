@@ -2,14 +2,14 @@
   {
     "id": 1,
     "name": "Demon Slayer",
-    "img": "assets/kny_logo.png",
+    "img": "assets/demonSlayer_logo.png",
     "characters": "demonSlayer",
     "new": false
   },
   {
     "id": 2,
     "name": "One Piece",
-    "img": "assets/op_logo.png",
+    "img": "assets/onePiece_logo.png",
     "characters": "onePiece",
     "new": true
   },
@@ -23,7 +23,7 @@
   {
     "id": 4,
     "name": "Gundam",
-    "img": "assets/g_logo.png",
+    "img": "assets/gundam_logo.png",
     "characters": "gundam",
     "new": false
   }
