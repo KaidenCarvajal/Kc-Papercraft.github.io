@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "name": "Naruto Uzumaki",
+    "description": "🍥El hiperactivo y decidido ninja de Konoha, nunca se rinde y luchará con el poder del chakra del Nueve Colas para proteger a sus amigos y cumplir su sueño de ser Hokage🍥, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "images": [
+      { "id": 1, "name": "assets/naruto/Naruto.jpg" },
+      { "id": 2, "name": "assets/naruto/Naruto2.jpg" },
+      { "id": 3, "name": "assets/naruto/Naruto3.jpg" },
+      { "id": 4, "name": "assets/naruto/Naruto4.jpg" },
+      { "id": 5, "name": "assets/naruto/Naruto5.jpg" }
+    ],
+    "price": "30.000",
+    "new": true
+  },
+  {
+    "id": 2,
+    "name": "Sasuke Uchiha",
+    "description": "⚡El talentoso y serio prodigio del clan Uchiha, combatirá con su Sharingan y su imponente poder del rayo, guiado por su firme determinación⚡, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
+    "images": [
+      { "id": 1, "name": "assets/naruto/Sasuke.jpg" },
+      { "id": 2, "name": "assets/naruto/Sasuke2.jpg" },
+      { "id": 3, "name": "assets/naruto/Sasuke3.jpg" },
+      { "id": 4, "name": "assets/naruto/Sasuke4.jpg" }
+    ],
+    "price": "30.000",
+    "new": true
+  },
+  {
+    "id": 3,
+    "name": "Sakura Haruno",
+    "description": "🏥La valiente kunoichi de gran fuerza y corazón decidido, apoyará al equipo con su poder médico y su devastadora fuerza sobrehumana🏥, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
+    "images": [
+      { "id": 1, "name": "assets/naruto/Sakura.jpg" },
+      { "id": 2, "name": "assets/naruto/Sakura2.jpg" },
+      { "id": 3, "name": "assets/naruto/Sakura3.jpg" },
+      { "id": 4, "name": "assets/naruto/Sakura4.jpg" }
+    ],
+    "price": "30.000",
+    "new": true
+  },
+  {
+    "id": 4,
+    "name": "Kakashi Hatake",
+    "description": "🥷El tranquilo y sabio ninja copia, liderará con experiencia y estrategia usando su Sharingan y su dominio de incontables técnicas🥷, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
+    "images": [
+      { "id": 1, "name": "assets/naruto/Kakashi.jpg" },
+      { "id": 1, "name": "assets/naruto/Kakashi2.jpg" },
+      { "id": 1, "name": "assets/naruto/Kakashi3.jpg" },
+      { "id": 2, "name": "assets/naruto/Kakashi4.jpg" }
+    ],
+    "price": "30.000",
+    "new": true
+  }
+]

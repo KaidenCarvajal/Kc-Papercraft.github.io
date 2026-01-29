@@ -7,7 +7,8 @@
       { "id": 1, "name": "assets/demonSlayer/Tanjiro.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Tanjiro2.jpg" }
     ],
-    "price": "35.000",
+    "price": "30.000",
+    "oldPrice": "35.000",
     "new": false
   },
   {
@@ -18,7 +19,8 @@
       { "id": 1, "name": "assets/demonSlayer/Nezuko.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Nezuko2.jpg" }
     ],
-    "price": "35.000",
+    "price": "30.000",
+    "oldPrice": "35.000",
     "new": false
   },
   {
@@ -29,7 +31,8 @@
       { "id": 1, "name": "assets/demonSlayer/Zenitsu.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Zenitsu2.jpg" }
     ],
-    "price": "35.000",
+    "price": "30.000",
+    "oldPrice": "35.000",
     "new": false
   },
   {
@@ -40,7 +43,8 @@
       { "id": 1, "name": "assets/demonSlayer/Inosuke.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Inosuke2.jpg" }
     ],
-    "price": "35.000",
+    "price": "30.000",
+    "oldPrice": "35.000",
     "new": false
   },
   {
@@ -51,7 +55,8 @@
       { "id": 1, "name": "assets/demonSlayer/InosukeM.jpg" },
       { "id": 2, "name": "assets/demonSlayer/InosukeM2.jpg" }
     ],
-    "price": "35.000",
+    "price": "30.000",
+    "oldPrice": "35.000",
     "new": false
   },
   {
@@ -62,7 +67,8 @@
       { "id": 1, "name": "assets/demonSlayer/Kanao.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Kanao2.jpg" }
     ],
-    "price": "35.000",
+    "price": "30.000",
+    "oldPrice": "35.000",
     "new": false
   },
   {
@@ -73,7 +79,8 @@
       { "id": 1, "name": "assets/demonSlayer/Giyu.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Giyu2.jpg" }
     ],
-    "price": "35.000",
+    "price": "30.000",
+    "oldPrice": "35.000",
     "new": false
   },
   {
@@ -84,7 +91,8 @@
       { "id": 1, "name": "assets/demonSlayer/Shinobu.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Shinobu2.jpg" }
     ],
-    "price": "35.000",
+    "price": "30.000",
+    "oldPrice": "35.000",
     "new": false
   },
   {
@@ -95,7 +103,8 @@
       { "id": 1, "name": "assets/demonSlayer/Rengoku.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Rengoku2.jpg" }
     ],
-    "price": "35.000",
+    "price": "30.000",
+    "oldPrice": "35.000",
     "new": false
   },
   {
@@ -106,7 +115,8 @@
       { "id": 1, "name": "assets/demonSlayer/Tengen.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Tengen2.jpg" }
     ],
-    "price": "35.000",
+    "price": "30.000",
+    "oldPrice": "35.000",
     "new": false
   },
   {
@@ -117,7 +127,8 @@
       { "id": 1, "name": "assets/demonSlayer/Mitsuri.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Mitsuri2.jpg" }
     ],
-    "price": "35.000",
+    "price": "30.000",
+    "oldPrice": "35.000",
     "new": false
   },
   {
@@ -128,7 +139,8 @@
       { "id": 1, "name": "assets/demonSlayer/Tokito.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Tokito2.jpg" }
     ],
-    "price": "35.000",
+    "price": "30.000",
+    "oldPrice": "35.000",
     "new": false
   },
   {
@@ -139,7 +151,8 @@
       { "id": 1, "name": "assets/demonSlayer/Himejima.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Himejima2.jpg" }
     ],
-    "price": "35.000",
+    "price": "30.000",
+    "oldPrice": "35.000",
     "new": false
   },
   {
@@ -150,7 +163,8 @@
       { "id": 1, "name": "assets/demonSlayer/Iguro.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Iguro2.jpg" }
     ],
-    "price": "35.000",
+    "price": "30.000",
+    "oldPrice": "35.000",
     "new": false
   },
   {
@@ -161,7 +175,8 @@
       { "id": 1, "name": "assets/demonSlayer/Sanemi.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Sanemi2.jpg" }
     ],
-    "price": "35.000",
+    "price": "30.000",
+    "oldPrice": "35.000",
     "new": false
   },
   {
@@ -172,7 +187,8 @@
       { "id": 1, "name": "assets/demonSlayer/Muzan.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Muzan2.jpg" }
     ],
-    "price": "35.000",
+    "price": "30.000",
+    "oldPrice": "35.000",
     "new": false
   },
   {
@@ -183,7 +199,8 @@
       { "id": 1, "name": "assets/demonSlayer/Doma.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Doma2.jpg" }
     ],
-    "price": "35.000",
+    "price": "30.000",
+    "oldPrice": "35.000",
     "new": false
   },
   {
@@ -194,7 +211,8 @@
       { "id": 1, "name": "assets/demonSlayer/Akaza.jpg" },
       { "id": 2, "name": "assets/demonSlayer/Akaza2.jpg" }
     ],
-    "price": "35.000",
+    "price": "30.000",
+    "oldPrice": "35.000",
     "new": false
   },
   {
@@ -207,7 +225,8 @@
       { "id": 3, "name": "assets/demonSlayer/TanjiroPose3.jpg" },
       { "id": 4, "name": "assets/demonSlayer/TanjiroPose4.jpg" }
     ],
-    "price": "35.000",
+    "price": "30.000",
+    "oldPrice": "35.000",
     "new": false
   },
   {
@@ -220,7 +239,8 @@
       { "id": 3, "name": "assets/demonSlayer/InosukePose3.jpg" },
       { "id": 4, "name": "assets/demonSlayer/InosukePose4.jpg" }
     ],
-    "price": "35.000",
+    "price": "30.000",
+    "oldPrice": "35.000",
     "new": false
   },
   {
@@ -233,7 +253,8 @@
       { "id": 3, "name": "assets/demonSlayer/RengokuPose3.jpg" },
       { "id": 4, "name": "assets/demonSlayer/RengokuPose4.jpg" }
     ],
-    "price": "35.000",
+    "price": "30.000",
+    "oldPrice": "35.000",
     "new": false
   }
 ]

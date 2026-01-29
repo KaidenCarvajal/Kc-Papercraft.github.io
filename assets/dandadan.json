@@ -1,0 +1,28 @@
+[
+ {
+    "id": 1,
+    "name": "Momo Ayase",
+    "description": "👽La valiente y decidida chica con poderes espirituales, enfrentará lo paranormal con carácter fuerte y una energía que no se rinde ante nada👻, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "images": [
+      { "id": 1, "name": "assets/dandadan/Momo.jpg" },
+      { "id": 2, "name": "assets/dandadan/Momo2.jpg" },
+      { "id": 3, "name": "assets/dandadan/Momo3.jpg" },
+      { "id": 4, "name": "assets/dandadan/Momo4.jpg" }
+    ],
+    "price": "35.000",
+    "new": true
+  },
+  {
+    "id": 2,
+    "name": "Turbo Abuela/Turbo Ruca",
+    "description": "👻La veloz y aterradora entidad sobrenatural, atacará con una rapidez absurda y una presencia tan caótica como impredecible👻, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio. Nota: esta figura cuenta con su caja 😁",
+    "images": [
+      { "id": 1, "name": "assets/dandadan/Turbo.jpg" },
+      { "id": 2, "name": "assets/dandadan/Turbo2.jpg" },
+      { "id": 3, "name": "assets/dandadan/Turbo3.jpg" },
+      { "id": 4, "name": "assets/dandadan/Turbo4.jpg" }
+    ],
+    "price": "35.000",
+    "new": true
+  }
+]

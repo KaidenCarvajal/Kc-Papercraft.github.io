@@ -25,6 +25,41 @@
     "name": "Gundam",
     "img": "assets/gundam_logo.png",
     "characters": "gundam",
-    "new": false
+    "new": true
+  },
+  {
+    "id": 5,
+    "name": "Naruto Shippuden",
+    "img": "assets/naruto_logo.png",
+    "characters": "naruto",
+    "new": true
+  },
+  {
+    "id": 6,
+    "name": "Frieren",
+    "img": "assets/frieren_logo.png",
+    "characters": "frieren",
+    "new": true
+  },
+  {
+    "id": 7,
+    "name": "Dandadan",
+    "img": "assets/dandadan_logo.png",
+    "characters": "dandadan",
+    "new": true
+  },
+  {
+    "id": 8,
+    "name": "Spy X Family",
+    "img": "assets/spy_logo.png",
+    "characters": "spy",
+    "new": true
+  },
+  {
+    "id": 9,
+    "name": "Sailor Moon",
+    "img": "assets/sailor_logo.png",
+    "characters": "sailor",
+    "new": true
   }
 ]

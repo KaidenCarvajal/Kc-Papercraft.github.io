@@ -1,0 +1,16 @@
+[
+{
+    "id": 1,
+    "name": "Serena (Usagi Tsukino)",
+    "description": "🌙La torpe pero de gran corazón guerrera mágica, luchará por el amor y la justicia transformándose en Sailor Moon con el poder de la luna🌙, ¡Figura papercraft, impresas en papel Opalina de alta calidad, impresión laser, trabajo hecho 100% a mano!, esta figura es hecha bajo pedido que puede demorar de 1 a 2 días, el envio no esta incluido en el precio.",
+    "images": [
+      { "id": 1, "name": "assets/sailor/Serena.jpg" },
+      { "id": 2, "name": "assets/sailor/Serena2.jpg" },
+      { "id": 3, "name": "assets/sailor/Serena3.jpg" },
+      { "id": 4, "name": "assets/sailor/Serena4.jpg" },
+      { "id": 5, "name": "assets/sailor/Serena5.jpg" }
+    ],
+    "price": "30.000",
+    "new": true
+  }
+]
